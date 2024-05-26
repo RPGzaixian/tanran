@@ -1,0 +1,10 @@
+debug/battle.o
+debug/character.o
+debug/main.o
+debug/mywidget.o
+debug/skill.o
+debug/t_f.o
+debug/true_false.o
+debug/moc_mywidget.o
+debug/moc_t_f.o
+debug/moc_true_false.o

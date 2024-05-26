@@ -1,0 +1,10 @@
+release/battle.o
+release/character.o
+release/main.o
+release/mywidget.o
+release/skill.o
+release/t_f.o
+release/true_false.o
+release/moc_mywidget.o
+release/moc_t_f.o
+release/moc_true_false.o
